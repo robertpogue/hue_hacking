@@ -1,0 +1,11 @@
+#output {
+    background-color:lightgrey;
+	width: 900px;
+	padding: 10px;
+	font-family: "Courier New", Courier, monospace
+}
+button, input, em {
+    padding: 4px;
+	margin: 10px;
+	width: 100px;
+}
